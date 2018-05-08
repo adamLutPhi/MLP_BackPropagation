@@ -1,0 +1,8 @@
+C:\Users\obzaj\source\repos\NeuralNetwork\neuralLibrary\bin\Debug\neuralLibrary.dll
+C:\Users\obzaj\source\repos\NeuralNetwork\neuralLibrary\bin\Debug\neuralLibrary.pdb
+C:\Users\obzaj\source\repos\NeuralNetwork\neuralLibrary\obj\Debug\neuralLibrary.csproj.CoreCompileInputs.cache
+C:\Users\obzaj\source\repos\NeuralNetwork\neuralLibrary\obj\Debug\neuralLibrary.dll
+C:\Users\obzaj\source\repos\NeuralNetwork\neuralLibrary\obj\Debug\neuralLibrary.pdb
+C:\Users\obzaj\source\repos\NeuralNetwork\neuralLibrary\bin\Debug\neuralLibrary.dll.CodeAnalysisLog.xml
+C:\Users\obzaj\source\repos\NeuralNetwork\neuralLibrary\bin\Debug\neuralLibrary.dll.lastcodeanalysissucceeded
+C:\Users\obzaj\source\repos\NeuralNetwork\neuralLibrary\obj\Debug\neuralLibrary.csprojResolveAssemblyReference.cache

@@ -1,0 +1,14 @@
+C:\Users\obzaj\source\repos\NeuralNetwork\nnMainFrame\bin\Debug\nnMainFrame.exe.config
+C:\Users\obzaj\source\repos\NeuralNetwork\nnMainFrame\bin\Debug\nnMainFrame.exe
+C:\Users\obzaj\source\repos\NeuralNetwork\nnMainFrame\bin\Debug\nnMainFrame.pdb
+C:\Users\obzaj\source\repos\NeuralNetwork\nnMainFrame\obj\Debug\nnMainFrame.csprojResolveAssemblyReference.cache
+C:\Users\obzaj\source\repos\NeuralNetwork\nnMainFrame\obj\Debug\nnMainFrame.csproj.CoreCompileInputs.cache
+C:\Users\obzaj\source\repos\NeuralNetwork\nnMainFrame\obj\Debug\nnMainFrame.exe
+C:\Users\obzaj\source\repos\NeuralNetwork\nnMainFrame\obj\Debug\nnMainFrame.pdb
+C:\Users\obzaj\source\repos\NeuralNetwork\nnMainFrame\bin\Debug\MathNet.Numerics.dll
+C:\Users\obzaj\source\repos\NeuralNetwork\nnMainFrame\bin\Debug\MathNet.Numerics.xml
+C:\Users\obzaj\source\repos\NeuralNetwork\nnMainFrame\obj\Debug\nnMainFrame.csproj.CopyComplete
+C:\Users\obzaj\source\repos\NeuralNetwork\nnMainFrame\bin\Debug\neuralLibrary.dll
+C:\Users\obzaj\source\repos\NeuralNetwork\nnMainFrame\bin\Debug\neuralLibrary.pdb
+C:\Users\obzaj\source\repos\NeuralNetwork\nnMainFrame\bin\Debug\nnMainFrame.exe.CodeAnalysisLog.xml
+C:\Users\obzaj\source\repos\NeuralNetwork\nnMainFrame\bin\Debug\nnMainFrame.exe.lastcodeanalysissucceeded
